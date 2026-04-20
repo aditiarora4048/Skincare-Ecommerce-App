@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_bg">#F5F5F5</color>
+    <color name="peach">#F6D5C3</color>
+    <color name="rose_soft">#EFB9A7</color>
+    <color name="brown_dark">#212121</color>
+    <color name="brown_medium">#5F4339</color>
+    <color name="white">#FFFFFF</color>
+    <color name="soft_green">#D7E6D1</color>
+    <color name="accent">#FF6F00</color>
+    <color name="accent_dark">#E65100</color>
+    <color name="text_muted">#757575</color>
+    <color name="stroke_soft">#EEEEEE</color>
+</resources>
